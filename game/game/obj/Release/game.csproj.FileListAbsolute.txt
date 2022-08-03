@@ -1,0 +1,15 @@
+C:\Users\79021\RiderProjects\game\game\bin\Release\game.exe.config
+C:\Users\79021\RiderProjects\game\game\bin\Release\game.exe
+C:\Users\79021\RiderProjects\game\game\bin\Release\game.pdb
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.csprojAssemblyReference.cache
+C:\Users\79021\RiderProjects\game\game\obj\Release\Interop.MediaPlayer.dll
+C:\Users\79021\RiderProjects\game\game\obj\Release\Interop.WMPLib.dll
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.csproj.ResolveComReference.cache
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.Form1.resources
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.mainMenu.resources
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.options.resources
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.Properties.Resources.resources
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.csproj.GenerateResource.cache
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.csproj.CoreCompileInputs.cache
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.exe
+C:\Users\79021\RiderProjects\game\game\obj\Release\game.pdb
